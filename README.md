@@ -18,8 +18,8 @@ un semplice webserver che risponde Hello World ad ogni richiesta.
 I file sono contenuti nella cartella Express. 
 Vi ricordo di lanciare il comando npm install per installare tutte le dipendenze. Date uno sguardo anche al file package.json per capire di cosa si tratta.
 
- ##UserService.js 
+ ### express/UserService.js
  è il file che contiene un CRUD per gestire utenti, e un array sarà il nostro DB. Scritto in ES6. 
  
- ###server.js 
+ ### express/server.js
  E' il webserver vero e proprio, scritto con Express.js.
